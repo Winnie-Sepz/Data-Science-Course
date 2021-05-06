@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cobalt-chalice-305110",
+  "private_key_id": "382b68f69922c783f78f6877e39b113b35e9aaac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmPVcX94eJepPN\n1uPFza1iuMLZNQKwNuGMZ3SUy74bl5aEfXzkQ9BNmEq/p1lPg2DU/a4RMx1LfeuS\nKkF/LXdQT+/jmtQpmwNP4muZY7vCsdsmtiZR+9MzX/2PKdh3PKOt6dhkhUJsJ0eu\nzsKYgu/m4wB3V+L9DysLO48FMBT3/Ks5tB/63DQIRmfSb70pyV4rRdC+ryZyR66M\n9sCl9DoJ4DRJNh6eq0tE7qdjzzIG8i4dHy1iJaa0lOILOf7207yhVkGbhSSHKeug\nTBNoWzeIM3ziTpFfXp09rk3IyBpLQ/+dKUePtK6JCoNRUBf1VZex1T9emAB+gFQZ\n3O5wDJ0HAgMBAAECggEAKZx3c6TwcYfeU6rdQqAgEIIM8R20DS32CJ6gAs5p3unA\nMdTOMCETchquk8HGkejQJN5uSbx/tGefHi0V5krM0A6KcAvJAXX7HMJyqOfOBOuJ\nDI+KEHIfYx8bn/azoSUr/eAQFGbDMPHOckj7AX5UpllreaZAJ3VI1cBfYlQkzgac\nAzMednFWiBtTDE91ugAWY2F/LfP1fQfMGvxx5gFP5OPgPUsJhOzQkgpoHFjo4zUW\nNNR/ebRdDWn6w6p48SlHEtsgyqsdUNMtuWqDRS0mP+mdmPMalRGNoPkBX41jqlds\n3JXRUNaQ5UaS7NvVmMd6+u6vZcpo/4MHF0amC/0G+QKBgQD9dqCJteeXQSfshoMD\nDcJ3GINIPQjEbXnto0q271120k1xkkPyMlJu5JavyP/6ZAZWO/ptAT1jjar5LBZi\ndNjtcL2it3EuNtqD+yTz2gUn8f/YNz9A5s0UeTljdmGEiu3/3Po9iVFFVLwNk9uV\nRaHsX8Dgyfdztl3h71TlxMJdCQKBgQDoiza82ROVwTB17DhqlXSBsj9qCFo9eIFC\nwo+82KLjzkRVY+8IZ8ICmk+vnaPucKjrUpD5WNwZZlOmPsMz0f+lShLzCUxc2Vmg\nf0UsNOFJBeRVJqxg1uLv11gLCxeorf64Pha56VereXWQpnPtimJ2SIBSQCqGD8sS\nUJ6tgDO9jwKBgDTdWix+0Tfd8hrGD2tCom2+ohseB8cYYlbrOPkgwai3wklOzXcl\ngcX5TWiKjsFFvYCc7+VuXcR21tMzm9ObNWeInTTj9+pArKDcb9+geHTVZ5xMIZhC\ny0Fa61pQZZSEeZFlIJhXHKlOPA7E6QagSF6JtivsU/1BayFljpqByFwpAoGBAMU7\nNhzsPKk6ZsDNrnfv9RX/ubtUBD241GFsJX91eoqequSF0vodDrcobEe1+5FDqnGU\n4PMrg9pjKLWK7AMqrJpjfjj1/PePPW5cI64/14gY4DW8jF3CRE5KJhmPuexOTwmz\nV5EtMTd119ns48xoH+TUz0lztN1pzcHl8P+VCc1PAoGBALT6hgQbM9hJhWVMRjc9\n+W6y1z0rzmr+CXWQXpv3/Y/mXuzBAFvA/VywdYaLURWCxWAZUeMEjSr8SuZzy4ZM\nvNONL5fqd5BEXqTPrh4l/OOmLamHJ3HIbVte6THukJpdQpaogmpa7nmOVUP4LCnq\nv+nhrMvFwQAmUfb9d+5Gf14O\n-----END PRIVATE KEY-----\n",
+  "client_email": "winnie@cobalt-chalice-305110.iam.gserviceaccount.com",
+  "client_id": "116212693583697909494",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/winnie%40cobalt-chalice-305110.iam.gserviceaccount.com"
+}

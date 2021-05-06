@@ -1,0 +1,6 @@
+{
+        "consumer_key": 'EJyoOXHZTudLlhSo0v7Fledcm',
+        "consumer_secret": 'KNxANNZifxwBlztsqFibNHL1AnJj75dbYVk3iYzUSNMBheG6xN',
+        "access_token": '894092362699255808-cqfo5uLwSIyPyr0vRl0OVm7pFAsZ9KV',
+        "access_token_secret": 'DL9TOCioglzYXKMgfjv1xt4Ff0eltD2PFfwtinPggEc2B'
+}
